@@ -93,4 +93,3 @@ const NeonIsometricMaze: React.FC = () => {
 }
 
 export default NeonIsometricMaze
-
